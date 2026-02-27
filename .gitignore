@@ -19,8 +19,9 @@ go.work.sum
 # Dependency directories
 vendor/
 
-# IDE - VS Code
+# IDE / Tools
 .vscode/
+.claude/
 *.code-workspace
 
 # VS Code Local History
